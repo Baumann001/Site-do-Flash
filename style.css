@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(156, 5, 5);
+    text-align: justify;
+    
+    
+}
+#navbar{
+color: gold;
+text-align: center;
+}
+#navbar2{
+    color: gold;
+    text-align: center;
+}
+#navbar3{
+    color: gold;
+    text-align: center;
+}
+#navbar4{
+ color: gold;
+ text-align: center;
+}
+#navbar5{
+    color: gold;
+    text-align: center;
+}
+#navbar6{
+    color: gold;
+    text-align: center;
+}
+.flex{
+    display: flex;
+    justify-content: space-around;
+}
